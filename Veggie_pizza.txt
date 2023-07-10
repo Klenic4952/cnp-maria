@@ -7,3 +7,4 @@ Mushrooms
 dough
 water
 tomatosauce
+purple pepper
